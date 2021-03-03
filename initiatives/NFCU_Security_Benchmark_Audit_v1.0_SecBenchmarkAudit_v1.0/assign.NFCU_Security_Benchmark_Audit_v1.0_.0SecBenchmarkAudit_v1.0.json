@@ -1,0 +1,29 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "properties": {
+  "displayName": "NFCU Security Benchmark Audit v1.0",
+  "policyDefinitionId": "/providers/Microsoft.Management/managementGroups/389b7e7c-4be2-4213-81b1-9e3a9afabd19/providers/Microsoft.Authorization/policySetDefinitions/SecBenchmarkAudit v1.0",
+  "scope": "/providers/Microsoft.Management/managementGroups/389b7e7c-4be2-4213-81b1-9e3a9afabd19",
+  "parameters": {},
+  "description": "This initiative contains Data privacy and Protection policies involving Logging, Data transfers, Versioning and recoverability security controls for Azure Resources.",
+  "metadata": {
+   "createdBy": "866a1b9f-e9ad-4113-8aa3-7270e7243649",
+   "createdOn": "2021-02-17T22:55:55.0491748Z",
+   "updatedBy": "866a1b9f-e9ad-4113-8aa3-7270e7243649",
+   "updatedOn": "2021-02-17T22:57:04.3082923Z"
+  },
+  "enforcementMode": "Default"
+ },
+ "identity": {
+  "principalId": "5ca2e1ff-e121-40ad-901e-bb316bc3add4",
+  "tenantId": "389b7e7c-4be2-4213-81b1-9e3a9afabd19",
+  "type": "SystemAssigned"
+ },
+ "id": "/providers/Microsoft.Management/managementGroups/389b7e7c-4be2-4213-81b1-9e3a9afabd19/providers/Microsoft.Authorization/policyAssignments/.0SecBenchmarkAudit v1.0",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": ".0SecBenchmarkAudit v1.0",
+ "location": "eastus"
+}
